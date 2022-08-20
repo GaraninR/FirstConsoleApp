@@ -16,9 +16,11 @@ namespace FirstConsoleApp
             this.firstName = fn;
             this.lastName = ln;
             this.experienceYears = eY;
+            
             this.numberOfPassedExams = nopex;
         }
 
+        // TODO: Add description for the method
         public int getIncomeSum(int startIncome) {
             int resultIncome = 0;
             if (this.experienceYears > 5) {
