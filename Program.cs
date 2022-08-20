@@ -10,6 +10,7 @@ static void printInfo(string? employeeFN, string? employeeLN, int totalFees, int
     System.Console.WriteLine("Your netto salary for " + employeeFN + " " + employeeLN + " " + " is " + salaryNetto);
 }
 
+// method for getting social insurance
 static int getSocialInsurance(int income)
 {
     int socialInsurance;
