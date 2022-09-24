@@ -455,3 +455,5 @@ $RECYCLE.BIN/
 
 thunder-tests/
 *.code-workspace
+*.csv
+*.sqlite3
