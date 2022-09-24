@@ -4,8 +4,6 @@
 
 This project is for salary calculation
 
+How to run:
 
-| col1 | col2 | col3 |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
+dotnet run
